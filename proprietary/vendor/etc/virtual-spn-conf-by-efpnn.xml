@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- Prestigio virtual-spn-conf-by-efpnn version 1.0.1187 2014-10-30 -->
+
+<virtualSpnOverridesByEfPnn version="1">
+<virtualSpnOverride mccmncpnn="26203Ortel D" name="Ortel D"/>
+<virtualSpnOverride mccmncpnn="23430EE" name="EE"/>
+<virtualSpnOverride mccmncpnn="23420Shebang" name="Shebang"/>
+<virtualSpnOverride mccmncpnn="23002TESCO MOBILE" name="TESCO MOBILE"/>
+<virtualSpnOverride mccmncpnn="28020PrimeTel" name="PrimeTel"/>
+</virtualSpnOverridesByEfPnn>
